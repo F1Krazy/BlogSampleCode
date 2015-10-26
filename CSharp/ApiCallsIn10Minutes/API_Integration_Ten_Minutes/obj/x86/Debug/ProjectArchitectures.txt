@@ -1,0 +1,1 @@
+C:\ProjectRepo\UWP\API_Integration_Ten_Minutes\API_Integration_Ten_Minutes\API_Integration_Ten_Minutes.csproj;x86
